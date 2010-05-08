@@ -15,11 +15,11 @@ You may need to reload your bundles on Textmate for the change to take effect. O
 
 The bundle includes a few snippets that get you started with using 960gs to write grid-based pages. 
 
-### Containers
+### `c12` and `c16` - Grid Containers
 
 Lets say you want to include a 12-column container. You can do it by simply writing:
 
-	c12 (press tab)
+	c12
 
 Which expands to:
 
@@ -29,11 +29,11 @@ Which expands to:
 
 Similarly, you can use `c16` to generate a 16-column container.
 
-### Grid elements
+### `gg` - Grid elements
 
 You can use snippets such as `g1`, `g2`, `g4`, `g8`, `g12` or a more flexible `gg` to expand into elements with a given number of columns. As an example, if you write,
 
-	g4 (press tab)
+	g4
 
 You'll get:
 
@@ -41,7 +41,7 @@ You'll get:
 		(cursor will be here)
 	</div>
 	
-### Pre-packaged grids
+### `pp` - Pre-packaged grids
 
 There are also a couple of pre-packaged grids for common uses. Use `pp` to access a menu choice for these. Examples are below:
 
