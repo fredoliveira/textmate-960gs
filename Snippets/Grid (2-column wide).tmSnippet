@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="grid_2"&gt;
+	${0:$TM_SELECTED_TEXT}
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Grid (2-column wide)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>g2</string>
+	<key>uuid</key>
+	<string>E7FE1569-394C-4FFE-8B05-5BA1AE0D2477</string>
+</dict>
+</plist>
