@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="container_12"${1: id="${2:name}"}&gt;
+	&lt;div class="grid_3"&gt;
+		${3:one}
+	&lt;/div&gt;
+	&lt;div class="grid_3"&gt;
+		${4:two}
+	&lt;/div&gt;
+	&lt;div class="grid_3"&gt;
+		${5:three}
+	&lt;/div&gt;
+	&lt;div class="grid_3"&gt;
+		${6:four}
+	&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Pre-fab 1/4 1/4 1/4 1/4</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>pp</string>
+	<key>uuid</key>
+	<string>8EA1A24D-C376-4D1C-83A1-5A786E49799C</string>
+</dict>
+</plist>
