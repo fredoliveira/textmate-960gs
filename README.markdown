@@ -13,7 +13,7 @@ You may need to reload your bundles on Textmate for the change to take effect. O
 
 ## Snippet examples
 
-The bundle includes a few snippets that get you started with using 960gs to write grid-based pages. 
+The bundle includes a few snippets that get you started with using 960gs to write grid-based pages.
 
 ### `c12` and `c16` - Grid Containers
 
@@ -24,7 +24,7 @@ Lets say you want to include a 12-column container. You can do it by simply writ
 Which expands to:
 
 	<div class="container_12" id="name">
-		(cursor will be here)	
+		(cursor will be here)
 	</div>
 
 Similarly, you can use `c16` to generate a 16-column container.
@@ -40,7 +40,7 @@ You'll get:
 	<div class="grid_4">
 		(cursor will be here)
 	</div>
-	
+
 ### `pp` - Pre-packaged grids
 
 There are also a couple of pre-packaged grids for common uses. Use `pp` to access a menu choice for these. Examples are below:
